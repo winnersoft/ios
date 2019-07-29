@@ -19,7 +19,7 @@
 					<key>needs-shine</key>
 					<false/>
 					<key>url</key>
-					<string>http://61.111.54.120:8980/mobileoffice/app/ic_launcher_512</string>
+					<string>http://61.111.54.120:8980/mobileoffice/choroc/choroc_icon.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -27,7 +27,7 @@
 					<key>needs-shine</key>
 					<false/>
 					<key>url</key>
-					<string>http://61.111.54.120:8980/mobileoffice/app/ic_launcher_57</string>
+					<string>http://61.111.54.120:8980/mobileoffice/choroc/choroc_icon.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
